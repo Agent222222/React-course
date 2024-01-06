@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React-course/static/css/main.bebcccf6.css",
-    "main.js": "/React-course/static/js/main.7fb247bd.js",
+    "main.css": "/React-course/static/css/main.9750ecb5.css",
+    "main.js": "/React-course/static/js/main.3731b648.js",
     "static/js/787.d4aba7ab.chunk.js": "/React-course/static/js/787.d4aba7ab.chunk.js",
     "static/media/logo.svg": "/React-course/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/React-course/index.html",
-    "main.bebcccf6.css.map": "/React-course/static/css/main.bebcccf6.css.map",
-    "main.7fb247bd.js.map": "/React-course/static/js/main.7fb247bd.js.map",
+    "main.9750ecb5.css.map": "/React-course/static/css/main.9750ecb5.css.map",
+    "main.3731b648.js.map": "/React-course/static/js/main.3731b648.js.map",
     "787.d4aba7ab.chunk.js.map": "/React-course/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bebcccf6.css",
-    "static/js/main.7fb247bd.js"
+    "static/css/main.9750ecb5.css",
+    "static/js/main.3731b648.js"
   ]
 }
